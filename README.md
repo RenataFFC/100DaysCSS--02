@@ -11,5 +11,5 @@ Link Site:   https://renataffc.github.io/100DaysCSS-01---Renata/
 ## 🚀 Let's code! 🚀
 
 <div align="center">
-   <img src= "https://user-images.githubusercontent.com/97262523/215878407-4c2352ca-cb07-41d0-9cf1-49a909c4c3d5.png">
+   <img src= "https://user-images.githubusercontent.com/97262523/216193315-80e5529a-a4d2-4371-b5f9-ee5744ed60bf.png">
 </div>
